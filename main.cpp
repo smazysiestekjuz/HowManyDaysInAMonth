@@ -39,6 +39,7 @@ int main()
      //cout<<"Podaj rok: ";
     // cin >> rok;
 //if (((rok%4 == 0) && (rok%100 !=0)) ||(rok%400 == 0))
+//Sprawdzenie, czy rok jest przestępny
    //  cout<<"Ten miesiac ma 29dni!";
 //else cout<<"Ten miesiac ma 28dni!";
             }
